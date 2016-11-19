@@ -1,0 +1,20 @@
+{
+  "name": "front",
+  "description": "basic fornt-dev workshop",
+  "main": "index.js",
+  "authors": [
+    "RuneSam"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

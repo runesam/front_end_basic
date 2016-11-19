@@ -1,0 +1,32 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "basic fornt-dev workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RuneSam",
+  "license": "ISC",
+  "repository": "master",
+  "dependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.7",
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-concat-css": "^0.3.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jquery": "^3.1.1",
+    "requirejs": "^2.3.2",
+    "uglify-js": "^2.7.4",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {}
+}
