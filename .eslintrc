@@ -1,0 +1,7 @@
+{
+  "extends" : "rallycoding",
+  "rules" : {
+    "no-mixed-spaces-and-tabs": "off",
+    "one-var": "off"
+    }
+}
